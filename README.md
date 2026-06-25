@@ -1,58 +1,53 @@
-# QA Portfolio – SauceDemo Testing
+# Портфолио QA
 
-## Project Overview
+## Проект
 
-This repository contains the testing documentation for the SauceDemo web application.
+Тестирование веб-приложения SauceDemo.
 
-The goal of the project is to demonstrate manual testing skills, including planning, designing test cases, executing tests, documenting bugs, and preparing test reports.
-
----
-
-## Application
-
-SauceDemo
-
-Type:
-Web Application (E-commerce)
+Цель проекта — продемонстрировать навыки ручного тестирования веб-приложений.
 
 ---
 
-## Testing Types
+## Что было протестировано
 
-- Functional Testing
+- Авторизация
+- Каталог товаров
+- Сортировка товаров
+- Карточка товара
+- Корзина
+- Оформление заказа
+- Навигация
+
+---
+
+## Виды тестирования
+
+- Функциональное
 - Smoke Testing
-- Regression Testing
-- UI Testing
-- Compatibility Testing
-- Exploratory Testing
-- Negative Testing
-- Boundary Value Analysis
-- Usability Testing
+- Регрессионное
+- UI-тестирование
+- Исследовательское
+- Тестирование совместимости
+- Негативное тестирование
+- Граничные значения
 
 ---
 
-## Documentation
+## Документация
 
-- Test Plan
-- Test Strategy
-- Test Cases
-- Checklists
-- Bug Reports
-- Regression Report
-- Test Summary Report
+- План тестирования
+- Стратегия тестирования
+- Тест-кейсы
+- Чек-листы
+- Баг-репорты
+- Итоговый отчет
 
 ---
 
-## Tools
+## Инструменты
 
 - Google Chrome
 - Chrome DevTools
 - Git
 - GitHub
 - Microsoft Excel
-
----
-
-## Status
-
-Project in progress.
