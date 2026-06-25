@@ -1,36 +1,58 @@
-# qa-game-testing
+# QA Portfolio – SauceDemo Testing
 
-# Drink Sort QA Portfolio
+## Project Overview
 
-## Project
+This repository contains the testing documentation for the SauceDemo web application.
 
-Manual testing of a browser puzzle game "Drink Sort".
+The goal of the project is to demonstrate manual testing skills, including planning, designing test cases, executing tests, documenting bugs, and preparing test reports.
 
-## Testing types
+---
+
+## Application
+
+SauceDemo
+
+Type:
+Web Application (E-commerce)
+
+---
+
+## Testing Types
 
 - Functional Testing
-- UI Testing
 - Smoke Testing
 - Regression Testing
-- Exploratory Testing
+- UI Testing
 - Compatibility Testing
+- Exploratory Testing
 - Negative Testing
-- Boundary Value Testing
+- Boundary Value Analysis
 - Usability Testing
+
+---
 
 ## Documentation
 
 - Test Plan
+- Test Strategy
 - Test Cases
 - Checklists
 - Bug Reports
-- Test Reports
-- Traceability Matrix
+- Regression Report
+- Test Summary Report
+
+---
 
 ## Tools
 
+- Google Chrome
 - Chrome DevTools
 - Git
 - GitHub
-- Jira (examples)
-- Draw.io
+- Microsoft Excel
+
+---
+
+## Status
+
+Project in progress.
